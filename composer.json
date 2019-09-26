@@ -9,6 +9,7 @@
     "cache hash",
     "consistent hash"
   ],
+  "license": "MIT",
   "require": {
     "php": ">=5.6"
   },
