@@ -2,7 +2,6 @@
   "name": "tinson/php-consistent-hash",
   "description": "PHP Consistent Hash Library",
   "type": "library",
-  "license": "MIT License",
   "keywords": [
     "php",
     "redis hash",
